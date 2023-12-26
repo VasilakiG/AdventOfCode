@@ -1,3 +1,3 @@
 add_executable(day2 main.cpp
-        secondDaySecondExercise.cpp
-        secondDayFirstExercise.cpp)
+        secondDayFirstExercise.cpp
+        secondDaySecondExercise.cpp)
