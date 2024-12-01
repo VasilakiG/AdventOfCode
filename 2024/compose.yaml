@@ -1,5 +1,7 @@
 services:
   dev:
+    container_name: adventOfCodeRust
+    tty: true
     image: "rust:1.82"
     volumes:
       - ./day1:/day1
