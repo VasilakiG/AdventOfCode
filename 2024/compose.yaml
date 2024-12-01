@@ -1,0 +1,7 @@
+services:
+  dev:
+    image: "rust:1.82"
+    volumes:
+      - ./day1:/day1
+    environment:
+      - USER=vasilaki
