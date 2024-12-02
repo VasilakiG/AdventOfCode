@@ -5,5 +5,6 @@ services:
     image: "rust:1.82"
     volumes:
       - ./day1:/day1
+      - ./day2:/day2
     environment:
       - USER=vasilaki
